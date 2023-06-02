@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+}
+
+.putih {
+    background-color: #ffffff;
+    padding: 2% 10%;
+}
+
+.biru {
+    background-color: aqua;
+    padding: 2% 10%;
+}
+
+#profil {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+#pendidikan {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+#kemampuan {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+#kemampuan li {
+    list-style: disc;
+}
+
+#kontak {
+    padding: 2% 10% ;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+}
